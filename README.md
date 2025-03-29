@@ -1,6 +1,6 @@
 ### **How to Check License Status and Version for Windows and Office**  
 
-To verify the activation status and license type of Windows and Office, you can use built-in system commands. These methods work on all versions of Windows that support KMS activation. More information about cms activators and technologies on the website https://kmspico.at / .
+To verify the activation status and license type of Windows and Office, you can use built-in system commands. These methods work on all versions of Windows that support KMS activation. More information about cms activators and technologies on the website kmspico.at .
 
 ---
 
